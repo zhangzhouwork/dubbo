@@ -20,6 +20,8 @@ package org.apache.dubbo.common.utils;
 /**
  * Contains some methods to check array.
  */
+/*
+* 第一次修改，测试git*/
 public final class ArrayUtils {
 
     private ArrayUtils() {
